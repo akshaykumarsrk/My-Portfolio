@@ -9,7 +9,7 @@ const Navbar = () => {
       <div className="text-2xl font-bold text-purple-500"></div>
 
       <div className="hidden lg:flex items-center gap-8 text-lg">
-        {["about", "educations", "technologies", "projects", "contact"].map((section) => (
+        {["about", "experience", "educations", "technologies", "projects", "contact"].map((section) => (
           <Link
             key={section}
             to={section}
