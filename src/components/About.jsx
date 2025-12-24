@@ -1,5 +1,5 @@
 import React from 'react';
-import aboutImg from '../assets/about.jpg';
+import aboutImg from '../assets/about-boy.jpeg';
 import { ABOUT_TEXT } from '../constants';
 import leetcodeLogo from '../assets/leetcodeLogo.webp';
 import gfgLogo from '../assets/gfgLogo.jpg';
